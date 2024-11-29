@@ -27,7 +27,7 @@ std::vector<T_Point_VEC> read_json(json &data) {
     return sensors_info;
 }
 int main() {
-    std::string json_path=R"(D:\Codes\C++\JSON\appendix1_full.json)";
+    std::string json_path=R"(..\appendix1_full.json)";
     std::ifstream json_stream(json_path);
     json full_data=json::parse(json_stream);
     read_json(full_data);
