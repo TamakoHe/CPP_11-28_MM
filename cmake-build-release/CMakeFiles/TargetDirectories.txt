@@ -1,0 +1,6 @@
+D:/Codes/C++/JSON/cmake-build-release/CMakeFiles/JSON.dir
+D:/Codes/C++/JSON/cmake-build-release/CMakeFiles/Test.dir
+D:/Codes/C++/JSON/cmake-build-release/CMakeFiles/edit_cache.dir
+D:/Codes/C++/JSON/cmake-build-release/CMakeFiles/rebuild_cache.dir
+D:/Codes/C++/JSON/cmake-build-release/json_lib/CMakeFiles/edit_cache.dir
+D:/Codes/C++/JSON/cmake-build-release/json_lib/CMakeFiles/rebuild_cache.dir

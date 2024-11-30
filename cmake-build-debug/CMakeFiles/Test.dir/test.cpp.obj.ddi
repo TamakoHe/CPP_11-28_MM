@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "CMakeFiles\\Test.dir\\test.cpp.obj",
+            "outputs": [
+                "D:\\Codes\\C++\\JSON\\cmake-build-debug\\vc140.pdb",
+                "CMakeFiles\\Test.dir\\test.cpp.obj.ddi"
+            ],
+            "requires": []
+        }
+    ]
+}
